@@ -28,10 +28,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Pagination
 paginate: 5
 paginate_path: "/blog/page:num/"
+
+# Theme settings
+minima:
+  date_format: "%Y-%m-%d"
 
 # Exclude from processing.
 exclude:
