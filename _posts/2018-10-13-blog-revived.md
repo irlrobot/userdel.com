@@ -2,7 +2,6 @@
 layout: post
 title:  "brushing the dust off"
 date:   2018-10-13 13:43:40 -0500
-category: general
 tags: jekyll migrate migration tumblr
 ---
 Well, it's been a little awhile, but I'm finally reviving this blog. To start, I ditched [Tumblr](https://tumblr.com) and migrated to [GitHub Pages](https://pages.github.com/) powered by [Jekyll](https://jekyllrb.com/).  Jekyll has an [importer](https://import.jekyllrb.com/docs/tumblr/), but it's pretty naive. All the reblogs from Tumblr are broken and none of the images came along with the posts (though they were downloaded into a directory for me). Not a huge deal for me, I plan to just go back and delete all the reblog posts since most are broken anyways and I'll manually add the images on the whopping four imported posts that had images.

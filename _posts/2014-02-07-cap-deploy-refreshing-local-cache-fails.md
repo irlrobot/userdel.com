@@ -2,10 +2,7 @@
 layout: post
 title: cap deploy refreshing local cache fails
 date: '2014-02-07T06:09:58+00:00'
-tags:
-- capistrano
-- osx
-- wtf
+tags: capistrano osx wtf
 tumblr_url: http://userdel.com/post/75896741312/cap-deploy-refreshing-local-cache-fails
 ---
 If you’re trying to cap deploy and getting

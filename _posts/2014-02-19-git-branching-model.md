@@ -2,7 +2,6 @@
 layout: post
 title: git branching model
 date: '2014-02-19T10:09:00+00:00'
-category: howto
 tags: git dev
 tumblr_url: http://userdel.com/post/77189389114/git-branching-model
 ---
