@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: cat brain | grep interesting >> blog
+author: "Josh Campbell"
 email: josh@userdel.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My name's Josh and I'm a SysAdmin. I post stuff that I think will be helpful to others. My opinions/posts on my blog and Twitter are my own and do not reflect the views of my current or former employers.
+  My name's Josh and I'm a SysAdmin. I post stuff that I think will be helpful to others. My opinions are my own and do not reflect the views of my current or former employers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://userdel.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: irlrobot
 github_username:  irlrobot
 
