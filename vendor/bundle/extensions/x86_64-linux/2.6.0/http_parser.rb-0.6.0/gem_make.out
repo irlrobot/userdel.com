@@ -1,5 +1,5 @@
 current directory: /usr/local/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/usr/local/bin/ruby -r ./siteconf20181013-36-jrg2ui.rb extconf.rb
+/usr/local/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190127-31-ru0uqz.rb extconf.rb
 creating Makefile
 
 current directory: /usr/local/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -41,11 +41,12 @@ ruby_http_parser.c:451:3: warning: ISO C90 forbids mixed declarations and code [
    ^~~~~~~~~~~~~
 ruby_http_parser.c: At top level:
 cc1: warning: unrecognized command line option '-Wno-self-assign'
-cc1: warning: unrecognized command line option '-Wno-constant-logical-operand'
 cc1: warning: unrecognized command line option '-Wno-parentheses-equality'
+cc1: warning: unrecognized command line option '-Wno-constant-logical-operand'
+cc1: warning: unrecognized command line option '-Wno-cast-function-type'
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
 current directory: /usr/local/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20181013-36-l78n51
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20190127-31-1hhoseb
